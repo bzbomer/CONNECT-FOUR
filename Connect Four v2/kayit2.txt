@@ -1,0 +1,8 @@
+Bu dosya 4 in a line oyunu save dosyasidir.
+4
+1
+1
+. . . X 
+. . . O 
+. O . O 
+X X X O 
