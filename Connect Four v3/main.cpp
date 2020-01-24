@@ -1,4 +1,4 @@
-/*Omer BOZABA , 131044080
+/*Omer BOZABA
   2017 / 2018 , c++ Hw4
   Four in a line oyunu*/
 
