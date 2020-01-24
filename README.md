@@ -2,8 +2,12 @@
 GAME, written in C++
 (c++11)
 
-v1 is sample version of Connect Four game.
+v1 is simple version of Connect Four game.
 
-Save and Load features have been added in v2.
+in v2
+Save and Load features added.
 
-OOP principles implemented in v3.
+in v3
+OOP principles implemented .
+Also you can play more than one Connect Four game at same time.
+Single and multi game features added.
